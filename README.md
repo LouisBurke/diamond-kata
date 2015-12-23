@@ -1,10 +1,20 @@
 # diamond_kata
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure Program that implements the Diamond Kata.
 
 ## Usage
 
-FIXME
+Given a letter, print a diamond starting with ‘A’ with the supplied letter at the widest point.
+
+For example: print-diamond ‘C’ prints
+
+```
+  A
+ B B
+C   C
+ B B
+  A
+```
 
 ## License
 
