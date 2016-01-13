@@ -1,4 +1,4 @@
-# diamond_kata
+# diamond-kata
 
 A Clojure Program that implements the Diamond Kata.
 
